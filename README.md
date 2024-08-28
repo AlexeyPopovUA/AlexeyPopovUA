@@ -1,3 +1,5 @@
+![Header](./resources/header.png)
+
 Hi, I'm Oleksii Popov,
 
 Fullstack Software Engineer
