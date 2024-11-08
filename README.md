@@ -1,4 +1,4 @@
-![Header](./resources/header.png)
+![Header]("./resources/no-face header.png")
 
 Hi, I'm Oleksii Popov,
 
