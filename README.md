@@ -1,4 +1,4 @@
-![Header](./resources/no-face-header.png)
+![Header](./resources/profile-header.png)
 
 Hi, I'm Oleksii Popov,
 
