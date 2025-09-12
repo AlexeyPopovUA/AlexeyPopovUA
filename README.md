@@ -2,7 +2,7 @@
 
 Hi, I'm Oleksii Popov 👋
 
-**Front End Heavy Full Stack Software Developer** 💻
+**Front End Leaning Full Stack Software Developer** 💻
 
 I'm a front-end leaning full-stack software developer with 14 years of experience, including 7 in senior roles.
 
