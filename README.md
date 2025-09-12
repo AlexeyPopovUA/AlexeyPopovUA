@@ -4,11 +4,17 @@ Hi, I'm Oleksii Popov 👋
 
 **Front End Heavy Full Stack Software Developer** 💻
 
-I am a Front End Heavy Full Stack Software Developer with more than 13 years of experience in web technologies. Passionate about developing user-friendly products and have a track record of designing and implementing full-stack solutions, combining frontend, cloud native, and backend areas.
+I'm a front-end leaning full-stack software developer with 14 years of experience, including 7 in senior roles.
 
-My expertise lies in the architecture and development of high-scale single page applications, UI libraries, and SDKs, as well as in the implementation of CI/CD, hosting and distribution solutions. I am proficient in TypeScript and JavaScript across all stacks and use them whenever possible. However, I am also experienced in maintaining projects in other languages.
+I build user-centric products, leveraging my expertise across frontend, cloud-native, and backend technologies.
 
-Enthusiastic about optimizing applications for improved runtime and faster loading speeds, both for existing projects and new ones. 🚀
+I specialize in architecting and developing high-scale single-page applications, UI libraries, and SDKs, while also implementing CI/CD pipelines, hosting, and distribution solutions.
+
+I excel at optimizing application performance for improved runtime efficiency and faster load speeds.
+
+My experience includes leading the development of high-quality technical solutions, conducting technical interviews, and mentoring team members.
+
+I also bring experience in defining project visions, setting development strategies, and prioritizing technologies to align with business goals.
 
 ### Links
 - [Blog](https://oleksiipopov.com/blog/) 📝
