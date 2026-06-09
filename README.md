@@ -16,6 +16,8 @@ My experience includes leading the development of high-quality technical solutio
 
 I also bring experience in defining project visions, setting development strategies, and prioritizing technologies to align with business goals.
 
+Currently building [Coloring Magic Art](https://coloringmagic.art) — custom printable coloring books with AI. If you're curious, I'd love you to check it out.
+
 ### Links
 - [Blog](https://oleksiipopov.com/blog/) 📝
 - [CV](https://oleksiipopov.com/resume/) 📄
