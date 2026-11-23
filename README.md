@@ -2,9 +2,9 @@
 
 Hi, I'm Oleksii Popov 👋
 
-**Front End Leaning Full Stack Software Developer** 💻
+**Senior Full-Stack Engineer · Founder of Coloring Magic Art** 💻
 
-I'm a front-end leaning full-stack software developer with 14 years of experience, including 7 in senior roles.
+I'm a senior full-stack engineer with 14 years of experience, including 7 in senior roles.
 
 I build user-centric products, leveraging my expertise across frontend, cloud-native, and backend technologies.
 
@@ -16,9 +16,10 @@ My experience includes leading the development of high-quality technical solutio
 
 I also bring experience in defining project visions, setting development strategies, and prioritizing technologies to align with business goals.
 
-Currently building [Coloring Magic Art](https://coloringmagic.art) — custom printable coloring books with AI. If you're curious, I'd love you to check it out.
+I founded [Coloring Magic Art](https://coloringmagic.art) — custom printable coloring books with AI. If you're curious, I'd love you to check it out.
 
 ### Links
+- [Website](https://oleksiipopov.com) 🌐
 - [Blog](https://oleksiipopov.com/blog/) 📝
 - [CV](https://oleksiipopov.com/resume/) 📄
 - [Portfolio](https://oleksiipopov.com/portfolio/) 🎨
